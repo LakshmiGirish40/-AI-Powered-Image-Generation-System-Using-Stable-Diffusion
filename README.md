@@ -8,7 +8,7 @@
     learning techniques. This project aims to explore creative AI applications in digital art, media, and design by 
     enabling users to convert their imagination into visually compelling content.
 - **Project Description:**
-   -  This project leverages the **Stable Diffusion model to generate visually rich images based on textual prompts.It 
+   -  This project leverages the **Stable Diffusion model** to generate visually rich images based on textual prompts.It 
       combines pre-trained diffusion models with advanced schedulers to produce highly coherent and detailed outputs. 
      The system is customizable through a configuration class, allowing users to adjust parameters like resolution, 
      guidance scale, and inference steps.
